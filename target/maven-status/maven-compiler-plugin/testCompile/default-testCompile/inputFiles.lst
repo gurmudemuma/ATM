@@ -1,0 +1,4 @@
+/app/src/test/java/com/atm/AccountTest.java
+/app/src/test/java/com/atm/BankTest.java
+/app/src/test/java/com/atm/TransactionTest.java
+/app/src/test/java/com/atm/UserTest.java
